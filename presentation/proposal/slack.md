@@ -4,7 +4,7 @@
 
 **Type:** Lightning talk (10 min)
 
-**Status:** Approved
+**Status:** Approved (15.04.16)
 
 ##### Summary:
 Er du lei mailtråder som strekker seg ut i det uendelige? Hvor all tidligere kommunikasjon er begravd i mengder av tidligere epost-signaturer og vedlegg? Hvor format og innhold kan skifte fra en epost klient til en annen? Da er Slack løsninger for deg!
