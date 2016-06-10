@@ -2,6 +2,10 @@
 
 **Title:** I'm a slacker and it's awesome
 
+**Type:** Lightning talk (10 min)
+
+**Status:** Approved
+
 ##### Summary:
 Er du lei mailtråder som strekker seg ut i det uendelige? Hvor all tidligere kommunikasjon er begravd i mengder av tidligere epost-signaturer og vedlegg? Hvor format og innhold kan skifte fra en epost klient til en annen? Da er Slack løsninger for deg!
 
