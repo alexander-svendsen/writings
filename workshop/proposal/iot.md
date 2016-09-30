@@ -6,6 +6,8 @@
 
 **Length:** 4 hours
 
+**Status:** Approved and hold multple times 
+
 #### Summary:
 **Javazone 2016:** Have you ever been curious to what IoT is, but never really taken the step to try it out? Then this is the perfect workshop for you!
 
