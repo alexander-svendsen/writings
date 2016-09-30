@@ -6,7 +6,7 @@
 
 **Status:** Waiting approval
 
-**Summary:**
+#### Summary:
 BEKK har akkurat kjøpt inn Slack med alle integrasjoner og det finnes både opensource og Atlassian-varianter av Slack 
 man kan ta i bruk på prosjekt! Chatops har vært i vinden en stund og Github har opensourcet sin egen bot. 
 Så hvordan ta i bruk alle disse mulighetene?
