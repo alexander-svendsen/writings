@@ -4,7 +4,7 @@
 
 **Title:** Intro til Slack & bots
 
-**Status:** Waiting approval
+**Status:** Approved (03.11.16)
 
 #### Summary:
 BEKK har akkurat kjøpt inn Slack med alle integrasjoner og det finnes både opensource og Atlassian-varianter av Slack 
