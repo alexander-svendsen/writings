@@ -1,4 +1,3 @@
 # writings
-My blog writings
 
 
