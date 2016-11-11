@@ -7,7 +7,7 @@
 
 #### Summary:
 
-##### Bekk fagdag
+**Place:** Bekk fagdag
 
 **Status:** Approved (03.11.16)
 
@@ -20,7 +20,7 @@ setter opp en hubot-instanse som vi kan herje med. Målet er å lære hvordan ma
 være hands-on på bruksområder, scripts og integrasjoner.
 
 
-##### Booster
+**Place:** Booster
 
 **Status:** In the works
 
