@@ -22,7 +22,7 @@ være hands-on på bruksområder, scripts og integrasjoner.
 
 **Place:** Booster
 
-**Status:** In the works
+**Status:** Declined
 
 Slack er blitt et mer og mer brukt verktøy og det finnes både opensource og Atlassian-varianter av Slack man kan ta i bruk! Chatops har vært i vinden en stund og Github har opensourcet sin egen bot. Så hvordan ta i bruk alle disse mulighetene, hva kan vi lage?
 
