@@ -11,6 +11,8 @@
 
 **Status:** Pending
 
+**Description:**
+
 Come and put your programming skills to the test in the first ever JavaZone Code Jam 🚀
 
 This is a programming competition where you will solve different algorithmic problems the whole workshop.
