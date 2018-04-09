@@ -13,7 +13,7 @@
 
 Come and put your programming skills to the test in the first ever JavaZone Code Jam 🚀
 
-This is a programming competition where you will solve different arithmetic problems the whole workshop.
+This is a programming competition where you will solve different algorithmic problems the whole workshop.
 
 We will use the open.kattis.com platform for the code jam. Choose whatever programming language you want from the big list at open.kattis.com. An intro to the platform will be given before the competition begins. 
 
