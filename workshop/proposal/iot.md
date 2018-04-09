@@ -1,4 +1,4 @@
-#Internet of things (IoT)
+# Internet of things (IoT)
 
 **Authors:** Alexander Svendsen, Snorre Lothar von Gohren Edwin, Birgitte Haavardsholm, Vegard Veiset
 
