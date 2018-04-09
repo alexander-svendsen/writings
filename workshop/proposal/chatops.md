@@ -1,4 +1,4 @@
-#ChatOps
+# ChatOps
 
 **Authors:** Alexander Svendsen, Tomas Fagerbekk, Tine Kleivane
 
